@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryLight">#e1f5fe</color>
+    <color name="colorPrimaryDark">#01579b</color>
+    <color name="colorAccent">#33691e</color>
+    <color name="kuet_color">#00A651</color>
+    <color name="kuet_color_dark">#004213</color>
+    <color name="common_text_color">#000</color>
+    <color name="common_hint_color">#bdbdbd</color>
+    <color name="transparent_black">#cc000000</color>
+    <color name="black">#000000</color>
+    <color name="transparent_white">#24ffffff</color>
+    <color name="red">#C74C4C</color>
+    <color name="blue">#002EFD</color>
+    <color name="kuet_color2">#019e4e</color>
+    <color name="veryLightGrey">#eeeeee</color>
+</resources>
